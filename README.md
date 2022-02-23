@@ -36,6 +36,8 @@ Now create the issue and assign your lecturer to the issue
 
 And done! Wait for a (hopefully helpful) answer.
 
+If you solved your issue yourself before we got a chance to answer, please do close the issue so we don't waste time if it's not needed, thanks.
+
 ### not involving code
 
 The same, but instead of selecting code and clicking the 'reference in a new issue', click on the 'issues' tab at the top and start from there.
