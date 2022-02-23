@@ -28,6 +28,8 @@ Make sure to always put in some effort to find a solution yourself (you're here 
 
 ![](img/github_issue_meme.jpg)
 
+Although there are no stupid questions, if the very first google result after copy pasting your error message provides the perfect answer, we WILL make fun of you (possibly behind your back)
+
 Now create the issue and assign your lecturer to the issue
 
 ![](img/github_issue3.gif)
@@ -36,6 +38,6 @@ And done! Wait for a (hopefully helpful) answer.
 
 ### not involving code
 
-The same, but instead of selecting code and clicking the 'new issue', click on the 'issues' tab at the top and start from there.
+The same, but instead of selecting code and clicking the 'reference in a new issue', click on the 'issues' tab at the top and start from there.
 
 Good luck!
