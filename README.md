@@ -26,7 +26,7 @@ Describe what you don't understand / doesn't work as you'd expect it to, and tel
 
 Make sure to always put in some effort to find a solution yourself (you're here to learn after all)
 
-![](img/github_issue_meme.jpg)
+![I asked Ms. Van Hove and Mr, Vertonghen to recreate this meme but they're boring :(](img/github_issue_meme.jpg)
 
 Although there are no stupid questions, if the very first google result after copy pasting your error message provides the perfect answer, we WILL make fun of you (possibly behind your back)
 
